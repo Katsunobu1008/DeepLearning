@@ -1,5 +1,4 @@
-dataset/
-__pycache__/
-*.pkl
-*.png
-*.gz
+dataset/__pycache__/
+dataset/*.pkl
+dataset/*.png
+dataset/*.gz
